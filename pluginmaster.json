@@ -12,12 +12,12 @@
             "goats"
         ],
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
+        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
+        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1716658351"
+        "LastUpdated": "1716658703"
     }
 ]
