@@ -1,2 +1,23 @@
 [
+    {
+        "Author": "silverkeyyyy",
+        "Name": "Atropos",
+        "Description": "",
+        "InternalName": "Atropos",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "sample",
+            "plugin",
+            "goats"
+        ],
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/cielo-h/c-pluginrepo/raw/main/plugins/Atropos/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1716658351"
+    }
 ]
