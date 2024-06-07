@@ -19,14 +19,14 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1717778194"
+        "LastUpdated": "1717778530"
     },
     {
         "Author": "silverkeyyyy",
         "Name": "Atropos",
         "Description": "",
         "InternalName": "Atropos",
-        "AssemblyVersion": "0.0.2.9",
+        "AssemblyVersion": "0.0.2.10",
         "ApplicableVersion": "any",
         "Tags": [
             "sample",
@@ -34,13 +34,14 @@
             "goats"
         ],
         "DalamudApiLevel": 9,
+        "IconUrl": "https://raw.githubusercontent.com/silverkeyyyy/Atropos-whitelist/main/atropos.jpeg",
         "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1717778194"
+        "LastUpdated": "1717778530"
     },
     {
         "Author": "C",
@@ -62,6 +63,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1717778194"
+        "LastUpdated": "1717778530"
     }
 ]
