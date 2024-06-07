@@ -2,7 +2,7 @@
   "Author": "silverkeyyyy",
   "Name": "Atropos",
   "InternalName": "Atropos",
-  "AssemblyVersion": "0.0.2.9",
+  "AssemblyVersion": "0.0.2.10",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -15,6 +15,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/silverkeyyyy/Atropos-whitelist/main/atropos.jpeg",
   "Punchline": "",
   "AcceptsFeedback": true
 }
