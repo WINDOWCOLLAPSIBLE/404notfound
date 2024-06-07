@@ -1,0 +1,21 @@
+{
+  "Author": "C",
+  "Name": "AdjusterPlugin",
+  "InternalName": "AdjusterPlugin",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Adjust your environment!",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "adjust",
+    "plugin",
+    "c"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/AdjusterPlugin.png",
+  "Punchline": "Adjust your environment!",
+  "AcceptsFeedback": true
+}
