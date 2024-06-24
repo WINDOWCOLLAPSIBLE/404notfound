@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "AdjusterPlugin",
   "InternalName": "AdjusterPlugin",
-  "AssemblyVersion": "0.0.0.5",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "Adjust your environment!",
   "ApplicableVersion": "any",
   "Tags": [
