@@ -2,7 +2,7 @@
   "Author": "silverkeyyyy",
   "Name": "Atropos",
   "InternalName": "Atropos",
-  "AssemblyVersion": "0.0.3.23",
+  "AssemblyVersion": "0.0.4.0",
   "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "goats"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
