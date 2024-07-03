@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "AdjusterPlugin",
   "InternalName": "AdjusterPlugin",
-  "AssemblyVersion": "0.0.0.6",
+  "AssemblyVersion": "0.0.0.7",
   "Description": "Adjust your environment!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "c"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
