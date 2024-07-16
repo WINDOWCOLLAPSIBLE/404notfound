@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "PosPluginNeo",
   "InternalName": "PosPluginNeo",
-  "AssemblyVersion": "0.0.0.23",
+  "AssemblyVersion": "0.0.0.24",
   "Description": "Carrying you!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -17,6 +17,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/PosPluginNeo.png",
   "Punchline": "Pos System",
-  "Changelog": "fix potion issue",
+  "Changelog": "update opcode for 7.01",
   "AcceptsFeedback": true
 }
