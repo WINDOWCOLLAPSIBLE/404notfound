@@ -19,7 +19,29 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723012625"
+        "LastUpdated": "1723012772"
+    },
+    {
+        "Author": "C",
+        "Name": "AdjusterPlugin",
+        "Description": "Adjust your environment!",
+        "InternalName": "AdjusterPlugin",
+        "AssemblyVersion": "0.0.0.44",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "adjust",
+            "plugin",
+            "c"
+        ],
+        "DalamudApiLevel": 10,
+        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/AdjusterPlugin.png",
+        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1723012772"
     },
     {
         "Author": "C",
@@ -41,28 +63,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723012625"
-    },
-    {
-        "Author": "C",
-        "Name": "AdjusterPlugin",
-        "Description": "Adjust your environment!",
-        "InternalName": "AdjusterPlugin",
-        "AssemblyVersion": "0.0.0.43",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "adjust",
-            "plugin",
-            "c"
-        ],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/AdjusterPlugin.png",
-        "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1723012625"
+        "LastUpdated": "1723012772"
     }
 ]
