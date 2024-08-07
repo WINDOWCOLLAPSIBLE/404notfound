@@ -19,14 +19,14 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723054493"
+        "LastUpdated": "1723057969"
     },
     {
         "Author": "C",
         "Name": "AdjusterPlugin",
         "Description": "Adjust your environment!",
         "InternalName": "AdjusterPlugin",
-        "AssemblyVersion": "0.0.0.47",
+        "AssemblyVersion": "0.0.0.48",
         "ApplicableVersion": "any",
         "Tags": [
             "adjust",
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723054493"
+        "LastUpdated": "1723057969"
     },
     {
         "Author": "C",
@@ -63,6 +63,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1723054493"
+        "LastUpdated": "1723057969"
     }
 ]
