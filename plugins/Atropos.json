@@ -1,0 +1,21 @@
+{
+  "Author": "silverkeyyyy",
+  "Name": "Atropos",
+  "InternalName": "Atropos",
+  "AssemblyVersion": "0.0.4.28",
+  "Description": "",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/silverkeyyyy/Atropos-whitelist/main/atropos.jpeg",
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
