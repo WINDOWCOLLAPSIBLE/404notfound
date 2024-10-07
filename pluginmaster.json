@@ -19,14 +19,14 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1728224333"
+        "LastUpdated": "1728305957"
     },
     {
         "Author": "silverkeyyyy",
         "Name": "Atropos",
         "Description": "",
         "InternalName": "Atropos",
-        "AssemblyVersion": "0.0.4.125",
+        "AssemblyVersion": "0.0.4.126",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/silverkeyyyy/Atropos-whitelist/main/atropos.jpeg",
@@ -36,7 +36,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/Atropos/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1728224333"
+        "LastUpdated": "1728305957"
     },
     {
         "Author": "Usagi",
@@ -59,7 +59,7 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/IINACT/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/IINACT/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1728224333"
+        "LastUpdated": "1728305957"
     },
     {
         "Author": "C",
@@ -81,6 +81,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/AdjusterPlugin/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1728224333"
+        "LastUpdated": "1728305957"
     }
 ]
