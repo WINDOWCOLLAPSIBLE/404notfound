@@ -1,0 +1,23 @@
+{
+  "Author": "C",
+  "Name": "HardwareInfo",
+  "InternalName": "HardwareInfo",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Show some information",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "hardware",
+    "fps",
+    "ping",
+    "plugin",
+    "C"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/HardwareInfo.png",
+  "Punchline": "Show hardware info",
+  "AcceptsFeedback": true
+}
