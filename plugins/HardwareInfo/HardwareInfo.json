@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "HardwareInfo",
   "InternalName": "HardwareInfo",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "Show some information",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,7 +12,7 @@
     "plugin",
     "C"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
