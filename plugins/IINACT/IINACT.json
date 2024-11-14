@@ -2,7 +2,7 @@
   "Author": "Usagi",
   "Name": "IINACT",
   "InternalName": "IINACT",
-  "AssemblyVersion": "3.0.0.2",
+  "AssemblyVersion": "3.0.0.3",
   "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/marzent/IINACT",
@@ -11,7 +11,7 @@
     "plugin",
     "ACT"
   ],
-  "DalamudApiLevel": 10,
+  "DalamudApiLevel": 11,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
