@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "PosPluginNeo",
   "InternalName": "PosPluginNeo",
-  "AssemblyVersion": "0.0.0.45",
+  "AssemblyVersion": "0.0.0.46",
   "Description": "Carrying you!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -17,6 +17,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/PosPluginNeo.png",
   "Punchline": "Pos System",
-  "Changelog": "fix wrong opCode and update submodule",
+  "Changelog": "add some command option",
   "AcceptsFeedback": true
 }
