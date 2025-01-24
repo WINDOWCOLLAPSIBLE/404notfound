@@ -1,0 +1,22 @@
+{
+  "Author": "C",
+  "Name": "PosPluginNeo",
+  "InternalName": "PosPluginNeo",
+  "AssemblyVersion": "0.0.0.48",
+  "Description": "Carrying you!",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Pos",
+    "plugin",
+    "C"
+  ],
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/PosPluginNeo.png",
+  "Punchline": "Pos System",
+  "Changelog": "update for 7.16",
+  "AcceptsFeedback": true
+}
