@@ -4,7 +4,7 @@
         "Name": "PosPluginNeo",
         "Description": "Carrying you!",
         "InternalName": "PosPluginNeo",
-        "AssemblyVersion": "0.0.0.54",
+        "AssemblyVersion": "0.0.0.55",
         "ApplicableVersion": "any",
         "Tags": [
             "Pos",
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1743209331"
+        "LastUpdated": "1743228559"
     }
 ]
