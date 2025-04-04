@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "PosPluginNeo",
   "InternalName": "PosPluginNeo",
-  "AssemblyVersion": "0.0.0.59",
+  "AssemblyVersion": "0.0.0.60",
   "Description": "Carrying you!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -17,6 +17,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/WINDOWCOLLAPSIBLE/Icons/main/PosPluginNeo.png",
   "Punchline": "Pos System",
-  "Changelog": "add copy path button",
+  "Changelog": "Add IPC method",
   "AcceptsFeedback": true
 }
