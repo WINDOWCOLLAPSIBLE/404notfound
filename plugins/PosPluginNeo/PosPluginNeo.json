@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "PosPluginNeo",
   "InternalName": "PosPluginNeo",
-  "AssemblyVersion": "0.0.0.91",
+  "AssemblyVersion": "0.0.0.92",
   "Description": "Carrying you!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -16,6 +16,6 @@
   "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "Pos System",
-  "Changelog": "fix task count and update lib",
+  "Changelog": "update lib",
   "AcceptsFeedback": true
 }
