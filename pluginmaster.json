@@ -4,20 +4,20 @@
         "Name": "PosPluginNeo",
         "Description": "Carrying you!",
         "InternalName": "PosPluginNeo",
-        "AssemblyVersion": "0.0.0.97",
+        "AssemblyVersion": "0.0.0.99",
         "ApplicableVersion": "any",
         "Tags": [
             "Pos",
             "plugin",
             "C"
         ],
-        "DalamudApiLevel": 13,
+        "DalamudApiLevel": 14,
         "DownloadLinkInstall": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadLinkUpdate": "https://github.com/WINDOWCOLLAPSIBLE/404notfound/raw/master/plugins/PosPluginNeo/latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1764769369"
+        "LastUpdated": "1766099753"
     }
 ]
