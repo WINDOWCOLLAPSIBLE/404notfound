@@ -2,7 +2,7 @@
   "Author": "C",
   "Name": "PosPluginNeo",
   "InternalName": "PosPluginNeo",
-  "AssemblyVersion": "0.0.0.103",
+  "AssemblyVersion": "0.0.0.104",
   "Description": "Carrying you!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "plugin",
     "C"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
